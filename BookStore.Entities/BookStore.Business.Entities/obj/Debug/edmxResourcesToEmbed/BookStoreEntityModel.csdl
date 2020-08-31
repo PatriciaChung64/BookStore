@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreEntityModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="BookStoreEntityModelContainer" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+    <EntitySet Name="Users" EntityType="BookStoreEntityModel.User" />
+    <EntitySet Name="Deliveries" EntityType="BookStoreEntityModel.Delivery" />
+    <EntitySet Name="Orders" EntityType="BookStoreEntityModel.Order" />
+    <EntitySet Name="OrderItems" EntityType="BookStoreEntityModel.OrderItem" />
+    <EntitySet Name="Stocks" EntityType="BookStoreEntityModel.Stock" />
+    <AssociationSet Name="OrderOrderItem" Association="BookStoreEntityModel.OrderOrderItem">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="CustomerOrder" Association="BookStoreEntityModel.CustomerOrder">
+      <End Role="Customer" EntitySet="Users" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <EntitySet Name="LoginCredentials" EntityType="BookStoreEntityModel.LoginCredential" />
+    <AssociationSet Name="CustomerLoginCredential" Association="BookStoreEntityModel.CustomerLoginCredential">
+      <End Role="Customer" EntitySet="Users" />
+      <End Role="LoginCredential" EntitySet="LoginCredentials" />
+    </AssociationSet>
+    <EntitySet Name="Books" EntityType="BookStoreEntityModel.Book" />
+    <AssociationSet Name="OrderItemBook" Association="BookStoreEntityModel.OrderItemBook">
+      <End Role="OrderItem" EntitySet="OrderItems" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+    <EntitySet Name="Roles" EntityType="BookStoreEntityModel.Role" />
+    <AssociationSet Name="UserRole" Association="BookStoreEntityModel.UserRole">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Role" EntitySet="Roles" />
+    </AssociationSet>
+    <AssociationSet Name="DeliveryOrder" Association="BookStoreEntityModel.DeliveryOrder">
+      <End Role="Delivery" EntitySet="Deliveries" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="BookStock" Association="BookStoreEntityModel.BookStock">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="Stock" EntitySet="Stocks" />
+    </AssociationSet>
+    <EntitySet Name="Warehouses" EntityType="BookStoreEntityModel.Warehouse" />
+    <AssociationSet Name="StockWarehouse" Association="BookStoreEntityModel.StockWarehouse">
+      <End Role="Stock" EntitySet="Stocks" />
+      <End Role="Warehouse" EntitySet="Warehouses" />
+    </AssociationSet>
+    <EntitySet Name="OrderStocks" EntityType="BookStoreEntityModel.OrderStock" />
+    <AssociationSet Name="OrderOrderStock" Association="BookStoreEntityModel.OrderOrderStock">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderStock" EntitySet="OrderStocks" />
+    </AssociationSet>
+    <AssociationSet Name="StockOrderStock" Association="BookStoreEntityModel.StockOrderStock">
+      <End Role="Stock" EntitySet="Stocks" />
+      <End Role="OrderStock" EntitySet="OrderStocks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Name" Nullable="false" ConcurrencyMode="None" />
+    <Property Type="String" Name="Address" Nullable="false" ConcurrencyMode="None" />
+    <NavigationProperty Name="Orders" Relationship="BookStoreEntityModel.CustomerOrder" FromRole="Customer" ToRole="Order" />
+    <NavigationProperty Name="LoginCredential" Relationship="BookStoreEntityModel.CustomerLoginCredential" FromRole="Customer" ToRole="LoginCredential" />
+    <Property Type="String" Name="Email" Nullable="false" ConcurrencyMode="None" />
+    <Property Type="Binary" Name="Revision" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <NavigationProperty Name="Roles" Relationship="BookStoreEntityModel.UserRole" FromRole="User" ToRole="Role" />
+    <Property Type="Int32" Name="BankAccountNumber" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Delivery">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="Status" Nullable="false" cg:SetterAccess="Private" cg:GetterAccess="Private" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+    <Property Type="String" Name="DestinationAddress" Nullable="false" />
+    <Property Type="Guid" Name="ExternalDeliveryIdentifier" Nullable="false" />
+    <Property Type="String" Name="SourceAddress" Nullable="false" />
+    <NavigationProperty Name="Order" Relationship="BookStoreEntityModel.DeliveryOrder" FromRole="Delivery" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Double" Name="Total" Nullable="true" />
+    <Property Type="DateTime" Name="OrderDate" Nullable="false" />
+    <Property Type="String" Name="Store" Nullable="true" />
+    <NavigationProperty Name="OrderItems" Relationship="BookStoreEntityModel.OrderOrderItem" FromRole="Order" ToRole="OrderItem" />
+    <NavigationProperty Name="Customer" Relationship="BookStoreEntityModel.CustomerOrder" FromRole="Order" ToRole="Customer" />
+    <Property Type="Guid" Name="OrderNumber" Nullable="false" />
+    <NavigationProperty Name="Delivery" Relationship="BookStoreEntityModel.DeliveryOrder" FromRole="Order" ToRole="Delivery" />
+    <NavigationProperty Name="OrderStocks" Relationship="BookStoreEntityModel.OrderOrderStock" FromRole="Order" ToRole="OrderStock" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderItem">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="Quantity" Nullable="false" />
+    <NavigationProperty Name="Book" Relationship="BookStoreEntityModel.OrderItemBook" FromRole="OrderItem" ToRole="Book" />
+  </EntityType>
+  <EntityType Name="Stock">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="Int32" Name="Quantity" Nullable="true" />
+    <NavigationProperty Name="Book" Relationship="BookStoreEntityModel.BookStock" FromRole="Stock" ToRole="Book" />
+    <NavigationProperty Name="Warehouse" Relationship="BookStoreEntityModel.StockWarehouse" FromRole="Stock" ToRole="Warehouse" />
+    <NavigationProperty Name="OrderStocks" Relationship="BookStoreEntityModel.StockOrderStock" FromRole="Stock" ToRole="OrderStock" />
+  </EntityType>
+  <Association Name="OrderOrderItem">
+    <End Type="BookStoreEntityModel.Order" Role="Order" Multiplicity="1" />
+    <End Type="BookStoreEntityModel.OrderItem" Role="OrderItem" Multiplicity="*" />
+  </Association>
+  <Association Name="CustomerOrder">
+    <End Type="BookStoreEntityModel.User" Role="Customer" Multiplicity="1" />
+    <End Type="BookStoreEntityModel.Order" Role="Order" Multiplicity="*" />
+  </Association>
+  <EntityType Name="LoginCredential">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="UserName" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="EncryptedPassword" Nullable="false" cg:SetterAccess="Public" cg:GetterAccess="Public" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+  </EntityType>
+  <Association Name="CustomerLoginCredential">
+    <End Type="BookStoreEntityModel.User" Role="Customer" Multiplicity="0..1" />
+    <End Type="BookStoreEntityModel.LoginCredential" Role="LoginCredential" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Title" Nullable="false" />
+    <Property Type="String" Name="Author" Nullable="false" />
+    <Property Type="String" Name="Genre" Nullable="false" />
+    <Property Type="Double" Name="Price" Nullable="false" />
+    <NavigationProperty Name="Stock" Relationship="BookStoreEntityModel.BookStock" FromRole="Book" ToRole="Stock" />
+  </EntityType>
+  <Association Name="OrderItemBook">
+    <End Type="BookStoreEntityModel.OrderItem" Role="OrderItem" Multiplicity="*" />
+    <End Type="BookStoreEntityModel.Book" Role="Book" Multiplicity="1" />
+  </Association>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="BookStoreEntityModel.UserRole" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <Association Name="UserRole">
+    <End Type="BookStoreEntityModel.User" Role="User" Multiplicity="*" />
+    <End Type="BookStoreEntityModel.Role" Role="Role" Multiplicity="*" />
+  </Association>
+  <Association Name="DeliveryOrder">
+    <End Type="BookStoreEntityModel.Delivery" Role="Delivery" Multiplicity="*" />
+    <End Type="BookStoreEntityModel.Order" Role="Order" Multiplicity="1" />
+  </Association>
+  <Association Name="BookStock">
+    <End Type="BookStoreEntityModel.Book" Role="Book" Multiplicity="1" />
+    <End Type="BookStoreEntityModel.Stock" Role="Stock" Multiplicity="*" />
+  </Association>
+  <EntityType Name="Warehouse">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Stocks" Relationship="BookStoreEntityModel.StockWarehouse" FromRole="Warehouse" ToRole="Stock" />
+    <Property Name="Address" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="StockWarehouse">
+    <End Type="BookStoreEntityModel.Stock" Role="Stock" Multiplicity="*" />
+    <End Type="BookStoreEntityModel.Warehouse" Role="Warehouse" Multiplicity="1" />
+  </Association>
+  <EntityType Name="OrderStock">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Order" Relationship="BookStoreEntityModel.OrderOrderStock" FromRole="OrderStock" ToRole="Order" />
+    <NavigationProperty Name="Stock" Relationship="BookStoreEntityModel.StockOrderStock" FromRole="OrderStock" ToRole="Stock" />
+    <Property Name="Depleted" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="OrderOrderStock">
+    <End Type="BookStoreEntityModel.Order" Role="Order" Multiplicity="1" />
+    <End Type="BookStoreEntityModel.OrderStock" Role="OrderStock" Multiplicity="*" />
+  </Association>
+  <Association Name="StockOrderStock">
+    <End Type="BookStoreEntityModel.Stock" Role="Stock" Multiplicity="1" />
+    <End Type="BookStoreEntityModel.OrderStock" Role="OrderStock" Multiplicity="*" />
+  </Association>
+</Schema>

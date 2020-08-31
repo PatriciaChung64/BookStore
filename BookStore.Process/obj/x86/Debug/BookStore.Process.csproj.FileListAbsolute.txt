@@ -1,0 +1,460 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Process\obj\x86\Debug\BookStore.Process.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Process.exe.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Process.exe
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Process.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.WebClient.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Owin.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\WebGrease.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Antlr3.Runtime.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.Services.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.WebClient.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Common.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Process\bin\Debug\AutoMapper.Net4.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Owin.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\WebGrease.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Owin.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\WebGrease.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.Net4.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Process.exe.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Process.exe
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Process.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.WebClient.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Common.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Owin.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\WebGrease.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.Services.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.WebClient.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Common.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Common.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.exe
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Process.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.ServiceLocatorAdapter.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Practices.Unity.StaticFactory.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Owin.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\WebGrease.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.Services.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\BookStore.WebClient.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Common.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Optimization.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Mvc.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.Razor.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.exe
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\obj\x86\Debug\BookStore.Process.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Process\bin\Debug\AutoMapper.Net4.dll

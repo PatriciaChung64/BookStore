@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DeliveryCoEntityModel" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="DeliveryCoEntityModelContainer" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+    <EntitySet Name="DeliveryInfo" EntityType="DeliveryCoEntityModel.DeliveryInfo" />
+  </EntityContainer>
+  <EntityType Name="DeliveryInfo">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Type="String" Name="SourceAddress" Nullable="false" />
+    <Property Type="String" Name="DestinationAddress" Nullable="false" />
+    <Property Type="String" Name="OrderNumber" Nullable="false" />
+    <Property Type="Guid" Name="DeliveryIdentifier" Nullable="false" />
+    <Property Type="String" Name="DeliveryNotificationAddress" Nullable="false" />
+    <Property Type="Int32" Name="Status" Nullable="false" />
+  </EntityType>
+</Schema>

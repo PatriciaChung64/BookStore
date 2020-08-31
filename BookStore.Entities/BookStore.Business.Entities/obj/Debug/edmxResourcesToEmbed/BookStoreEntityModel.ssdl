@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreEntityModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BookStoreEntityModelStoreContainer">
+    <EntitySet Name="Users" EntityType="BookStoreEntityModel.Store.Users" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Deliveries" EntityType="BookStoreEntityModel.Store.Deliveries" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Orders" EntityType="BookStoreEntityModel.Store.Orders" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderItems" EntityType="BookStoreEntityModel.Store.OrderItems" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Stocks" EntityType="BookStoreEntityModel.Store.Stocks" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="LoginCredentials" EntityType="BookStoreEntityModel.Store.LoginCredentials" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Books" EntityType="BookStoreEntityModel.Store.Books" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Roles" EntityType="BookStoreEntityModel.Store.Roles" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Warehouses" EntityType="BookStoreEntityModel.Store.Warehouses" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OrderStocks" EntityType="BookStoreEntityModel.Store.OrderStocks" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserRole" EntityType="BookStoreEntityModel.Store.UserRole" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="OrderOrderItem" Association="BookStoreEntityModel.Store.OrderOrderItem">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderItem" EntitySet="OrderItems" />
+    </AssociationSet>
+    <AssociationSet Name="CustomerOrder" Association="BookStoreEntityModel.Store.CustomerOrder">
+      <End Role="Customer" EntitySet="Users" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="CustomerLoginCredential" Association="BookStoreEntityModel.Store.CustomerLoginCredential">
+      <End Role="Customer" EntitySet="Users" />
+      <End Role="LoginCredential" EntitySet="LoginCredentials" />
+    </AssociationSet>
+    <AssociationSet Name="OrderItemBook" Association="BookStoreEntityModel.Store.OrderItemBook">
+      <End Role="OrderItem" EntitySet="OrderItems" />
+      <End Role="Book" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserRole_User" Association="BookStoreEntityModel.Store.FK_UserRole_User">
+      <End Role="User" EntitySet="Users" />
+      <End Role="UserRole" EntitySet="UserRole" />
+    </AssociationSet>
+    <AssociationSet Name="FK_UserRole_Role" Association="BookStoreEntityModel.Store.FK_UserRole_Role">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="UserRole" EntitySet="UserRole" />
+    </AssociationSet>
+    <AssociationSet Name="DeliveryOrder" Association="BookStoreEntityModel.Store.DeliveryOrder">
+      <End Role="Delivery" EntitySet="Deliveries" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="BookStock" Association="BookStoreEntityModel.Store.BookStock">
+      <End Role="Book" EntitySet="Books" />
+      <End Role="Stock" EntitySet="Stocks" />
+    </AssociationSet>
+    <AssociationSet Name="StockWarehouse" Association="BookStoreEntityModel.Store.StockWarehouse">
+      <End Role="Stock" EntitySet="Stocks" />
+      <End Role="Warehouse" EntitySet="Warehouses" />
+    </AssociationSet>
+    <AssociationSet Name="OrderOrderStock" Association="BookStoreEntityModel.Store.OrderOrderStock">
+      <End Role="Order" EntitySet="Orders" />
+      <End Role="OrderStock" EntitySet="OrderStocks" />
+    </AssociationSet>
+    <AssociationSet Name="StockOrderStock" Association="BookStoreEntityModel.Store.StockOrderStock">
+      <End Role="Stock" EntitySet="Stocks" />
+      <End Role="OrderStock" EntitySet="OrderStocks" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Revision" Type="varbinary(max)" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="BankAccountNumber" Type="int" Nullable="false" />
+    <Property Name="LoginCredential_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Deliveries">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="DestinationAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ExternalDeliveryIdentifier" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="SourceAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Order_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Total" Type="float" Nullable="true" />
+    <Property Name="OrderDate" Type="datetime" Nullable="false" />
+    <Property Name="Store" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="OrderNumber" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="Customer_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderItems">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="OrderOrderItem_OrderItem_Id" Type="int" Nullable="false" />
+    <Property Name="Book_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Stocks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Quantity" Type="int" Nullable="true" />
+    <Property Name="Book_Id" Type="int" Nullable="false" />
+    <Property Name="Warehouse_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LoginCredentials">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" Nullable="false" MaxLength="30" />
+    <Property Name="EncryptedPassword" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Author" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Genre" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Price" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Warehouses">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Address" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderStocks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Depleted" Type="int" Nullable="false" />
+    <Property Name="Order_Id" Type="int" Nullable="false" />
+    <Property Name="Stock_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="User_Id" />
+      <PropertyRef Name="Roles_Id" />
+    </Key>
+    <Property Name="User_Id" Type="int" Nullable="false" />
+    <Property Name="Roles_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="OrderOrderItem">
+    <End Role="Order" Type="BookStoreEntityModel.Store.Orders" Multiplicity="1" />
+    <End Role="OrderItem" Type="BookStoreEntityModel.Store.OrderItems" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="OrderOrderItem_OrderItem_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CustomerOrder">
+    <End Role="Customer" Type="BookStoreEntityModel.Store.Users" Multiplicity="1" />
+    <End Role="Order" Type="BookStoreEntityModel.Store.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Order">
+        <PropertyRef Name="Customer_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CustomerLoginCredential">
+    <End Role="Customer" Type="BookStoreEntityModel.Store.Users" Multiplicity="*" />
+    <End Role="LoginCredential" Type="BookStoreEntityModel.Store.LoginCredentials" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="LoginCredential">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Customer">
+        <PropertyRef Name="LoginCredential_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderItemBook">
+    <End Role="OrderItem" Type="BookStoreEntityModel.Store.OrderItems" Multiplicity="*" />
+    <End Role="Book" Type="BookStoreEntityModel.Store.Books" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderItem">
+        <PropertyRef Name="Book_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="DeliveryOrder">
+    <End Role="Delivery" Type="BookStoreEntityModel.Store.Deliveries" Multiplicity="*" />
+    <End Role="Order" Type="BookStoreEntityModel.Store.Orders" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Delivery">
+        <PropertyRef Name="Order_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="BookStock">
+    <End Role="Book" Type="BookStoreEntityModel.Store.Books" Multiplicity="1" />
+    <End Role="Stock" Type="BookStoreEntityModel.Store.Stocks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="Book_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StockWarehouse">
+    <End Role="Stock" Type="BookStoreEntityModel.Store.Stocks" Multiplicity="*" />
+    <End Role="Warehouse" Type="BookStoreEntityModel.Store.Warehouses" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Warehouse">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Stock">
+        <PropertyRef Name="Warehouse_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderOrderStock">
+    <End Role="Order" Type="BookStoreEntityModel.Store.Orders" Multiplicity="1" />
+    <End Role="OrderStock" Type="BookStoreEntityModel.Store.OrderStocks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Order">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderStock">
+        <PropertyRef Name="Order_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StockOrderStock">
+    <End Role="Stock" Type="BookStoreEntityModel.Store.Stocks" Multiplicity="1" />
+    <End Role="OrderStock" Type="BookStoreEntityModel.Store.OrderStocks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stock">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderStock">
+        <PropertyRef Name="Stock_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserRole_User">
+    <End Role="User" Type="BookStoreEntityModel.Store.Users" Multiplicity="1" />
+    <End Role="UserRole" Type="BookStoreEntityModel.Store.UserRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserRole">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_UserRole_Role">
+    <End Role="UserRole" Type="BookStoreEntityModel.Store.UserRole" Multiplicity="*" />
+    <End Role="Role" Type="BookStoreEntityModel.Store.Roles" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserRole">
+        <PropertyRef Name="Roles_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

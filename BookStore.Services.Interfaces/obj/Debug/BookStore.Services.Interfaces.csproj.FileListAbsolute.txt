@@ -1,0 +1,87 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\BookStore.Services.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Services.Interfaces\obj\Debug\BookStore.Services.Interfaces.pdb

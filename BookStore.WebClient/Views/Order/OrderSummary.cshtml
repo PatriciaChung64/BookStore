@@ -1,0 +1,60 @@
+﻿@model BookStore.WebClient.ViewModels.OrderViewModel
+
+@{
+    ViewBag.Title = "OrderSummary";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Order Summary</h2>
+
+<dl>
+    <dt>Order Number: @Model.OrderService.getOrderNumber(Model.order.Id)</dt>
+    <dt>Date: @Model.order.OrderDate</dt>
+    <dt>Items: </dt>
+    @foreach (var item in Model.order.OrderItems)
+    {
+        <dd>Name: @item.Book.Title  Quantity: @item.Quantity</dd>
+    }
+    <dt>Total cost: $@Model.order.Total</dt>
+    @switch (Model.order.Status)
+    {
+        case 0:
+            <dt>Status: Submitted</dt>
+            break;
+
+        case 1:
+            <dt>Status: Paid</dt>
+            break;
+
+        case 2:
+            <dt>Status: Picked up</dt>
+            break;
+
+        case 3:
+            <dt>Status: Dispatched</dt>
+            break;
+
+        case 4:
+            <dt>Status: Delivered</dt>
+            break;
+
+        case 5:
+            <dt>Status: Cancelled</dt>
+            break;
+
+        case 6:
+            <dt>Status: Pick-up Failed</dt>
+            break;
+    }
+    @if (Model.order.Status == 0 || Model.order.Status == 1 || Model.order.Status == 2)
+    {
+        <dt>
+            @using (Html.BeginForm("CancelOrder", "Order"))
+            {
+                @Html.Hidden("pOrderId", Model.order.Id)
+                <input type="submit" value="Cancel Order" />
+            }
+        </dt>
+    }
+
+</dl>

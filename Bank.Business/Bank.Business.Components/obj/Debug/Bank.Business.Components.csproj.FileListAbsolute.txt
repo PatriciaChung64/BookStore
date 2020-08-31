@@ -1,0 +1,122 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components\obj\Debug\Bank.Business.Components.pdb

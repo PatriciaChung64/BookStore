@@ -1,0 +1,65 @@
+﻿@model BookStore.WebClient.ViewModels.OrderViewModel
+
+@{
+    ViewBag.Title = "ListOrder";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Your Orders</h2>
+
+<table class="table">
+    <tr>
+        <th>Date</th>
+        <th>Order Number</th>
+        <th>Status</th>
+        <th>Details</th>
+    </tr>
+
+    @foreach(var order in Model.userOrders)
+    {
+<tr>
+    <td>@order.OrderDate</td>
+    <td>@Model.OrderService.getOrderNumber(order.Id)</td>
+        @switch (order.Status)
+        {
+            case 0:
+                <td>Status: Submitted</td>
+                break;
+
+            case 1:
+                <td>Status: Paid</td>
+                break;
+
+            case 2:
+                <td>Status: Picked up</td>
+                break;
+
+            case 3:
+                <td>Status: Dispatched</td>
+                break;
+
+            case 4:
+                <td>Status: Delivered</td>
+                break;
+
+            case 5:
+                <td>Status: Cancelled</td>
+                break;
+
+            case 6:
+                <td>Status: Pick-up Failed</td>
+                break;
+        }
+    <td>
+        @using (Html.BeginForm("OrderSummary", "Order"))
+        {
+            @Html.Hidden("pOrderId", order.Id)
+            <input type="submit" value="View" />
+        }
+    </td>
+
+</tr>
+    }
+
+
+</table>

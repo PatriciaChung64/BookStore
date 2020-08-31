@@ -1,0 +1,45 @@
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\David\Desktop\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\Bank.Business.Components.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\Bank.Business\Bank.Business.Components.Interfaces\obj\Debug\Bank.Business.Components.Interfaces.pdb

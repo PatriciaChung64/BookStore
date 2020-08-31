@@ -1,0 +1,44 @@
+C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\David\Desktop\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\DeliveryCo.MessageTypes\obj\Debug\DeliveryCo.MessageTypes.pdb

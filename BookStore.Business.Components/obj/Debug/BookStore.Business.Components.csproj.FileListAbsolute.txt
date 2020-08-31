@@ -1,0 +1,179 @@
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\VideoStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Common.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\Common.dll.config
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
+C:\Users\gre403\Documents\Basser\COMP5348 2019\Group Project\GroupProject\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CoreCompileInputs.cache
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
+C:\Users\p\Documents\COMP5348\Group_project\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\JingY\Documents\Repos\Enterprise\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Common.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\Common.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Desktop\Book-Store-Assignment-2-master\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Bank.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Components.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\BookStore.Business.Entities.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\Common.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\DeliveryCo.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.MessageTypes.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.pdb
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EmailService.Services.Interfaces.dll.config
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csprojAssemblyReference.cache
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.csproj.CopyComplete
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.dll
+C:\Users\jason\Documents\GitHub\Book-Store-Assignment-2\BookStore.Business.Components\obj\Debug\BookStore.Business.Components.pdb
